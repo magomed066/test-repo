@@ -1,10 +1,4 @@
 const App = () => {
-  const asd = 'asd'
-
-  var str = 'string'
-
-  console.log('asds')
-
   return (
     <form>
       <input
